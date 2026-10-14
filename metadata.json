@@ -1,0 +1,6 @@
+{
+  "name": "Medcare - Hospitals & Medical Centres Portal",
+  "description": "Full-stack healthcare management web app featuring hospital and clinic branch locator, doctor profiles, online appointment booking engine, teleconsultations, and REST API database integration for VS Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
